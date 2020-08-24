@@ -1,4 +1,4 @@
-# discord-clone
+# Discord Clone
 
 ## Build Setup
 
