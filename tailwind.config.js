@@ -12,7 +12,10 @@ module.exports = {
       "gray-200": "#2f3136",
       "gray-300": "#36393f",
       "gray-400": "#72767d",
-      "gray-500": "#b9bbbe"
+      "gray-500": "#b9bbbe",
+      "gray-600": "#202225",
+      "gray-700": "#292b2f",
+      "gray-800": "#8e9297"
     }
   },
   variants: {},
