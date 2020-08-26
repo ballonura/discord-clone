@@ -1,6 +1,14 @@
-# Discord Clone
+# Demo
 
-## Build Setup
+```bash
+https://discord-clone-phi.vercel.app/
+```
+
+### Preview
+
+![Preview Discord Clone](https://i.ibb.co/mzZ1Pcn/1.jpg)
+
+# Build Setup
 
 ```bash
 # install dependencies
@@ -16,5 +24,3 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
